@@ -375,10 +375,10 @@ local function UTNFDES_fake_script() -- RebornScript.Handler
 	elseif game.PlaceId == 11337066400 then -- PVP GAME 1
 		_G.HealPath = ReplicatedStorage.Events.Dx1234
 	elseif game.PlaceId == 11397055770 then -- XPr0xP's 2019
-		_G.HealPath = ReplicatedStorage.Events.YoMamaLols
+		_G.HealPath = ReplicatedStorage.Events.ban
 		CorrectID = nil
 	elseif game.PlaceId == nil then -- XPr0xP's 2019 VOID
-		_G.HealPath = ReplicatedStorage.Events.YoMamaLols
+		_G.HealPath = ReplicatedStorage.Events.ban
 		CorrectID = 11397055770
 	end
 	
